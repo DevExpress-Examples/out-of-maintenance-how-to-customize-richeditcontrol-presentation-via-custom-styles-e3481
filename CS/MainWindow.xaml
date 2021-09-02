@@ -3,8 +3,8 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:dxc="http://schemas.devexpress.com/winfx/2008/xaml/core"
         xmlns:dxre="http://schemas.devexpress.com/winfx/2008/xaml/richedit"
-        xmlns:dxret="clr-namespace:DevExpress.Xpf.RichEdit.Themes;assembly=DevExpress.Xpf.RichEdit.v13.1"
-        xmlns:dxrec="clr-namespace:DevExpress.Xpf.RichEdit.Controls.Internal;assembly=DevExpress.Xpf.RichEdit.v13.1"
+        xmlns:dxret="clr-namespace:DevExpress.Xpf.RichEdit.Themes;assembly=DevExpress.Xpf.RichEdit.v21.1"
+        xmlns:dxrec="clr-namespace:DevExpress.Xpf.RichEdit.Controls.Internal;assembly=DevExpress.Xpf.RichEdit.v21.1"
         Title="MainWindow" Height="350" Width="500">
 
     <Window.Resources>
