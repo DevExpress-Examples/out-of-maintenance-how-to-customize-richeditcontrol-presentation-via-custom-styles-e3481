@@ -1,12 +1,12 @@
-﻿Namespace RichEditCustomStylesWpf
-	Partial Public Class MainWindow
-		Inherits System.Windows.Window
+Namespace RichEditCustomStylesWpf
 
-		Public Sub New()
-			InitializeComponent()
+    Public Partial Class MainWindow
+        Inherits System.Windows.Window
 
-			richEditControl1.ApplyTemplate()
-			richEditControl1.ActiveView.ZoomFactor = 0.5F
-		End Sub
-	End Class
+        Public Sub New()
+            Me.InitializeComponent()
+            Me.richEditControl1.ApplyTemplate()
+            Me.richEditControl1.ActiveView.ZoomFactor = 0.5F
+        End Sub
+    End Class
 End Namespace
